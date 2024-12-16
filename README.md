@@ -6,4 +6,4 @@ Minimum połowa punktów ze wszystkich wejściówek (czyli 8 wejściówek po 2pk
 # Moja punktacja  
 | k1 | k2 | k3  | k4 | k5  | k6 | k7 | k8  | k9 | k10 |
 |----|----|-----|----|-----|----|----|-----|----|-----|
-| 1  | 2  | 0.5 | 1  | 1.5 | 0 (bonus) |  nie bylo |  1  |  - |  -  |
+| 1  | 2  | 0.5 | 1  | 1.5 | 0 (bonus) |  nie bylo |  1  |  0.5 |  -  |
